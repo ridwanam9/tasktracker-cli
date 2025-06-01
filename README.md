@@ -1,6 +1,8 @@
-This is the CLI for Task Tracker by Ridwan Amirul Maulana (Me)
+# Task Tracker CLI
 
-# How to use
+This is the CLI for Task Tracker by Ridwan Amirul Maulana (Me). The project was written in Python while JSON is used to store the tasks.
+
+## Usage
 
 ### Add tasks 
 ```sh

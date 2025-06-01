@@ -1,23 +1,9 @@
 [
     {
-        "id": 2,
-        "description": "Belajar Logika Python",
+        "id": 1,
+        "description": "Buy groceries and cook dinner",
         "status": "done",
-        "createdAt": "2025-06-01T13:10:34.210741",
-        "updatedAt": "2025-06-01T13:15:36.401842"
-    },
-    {
-        "id": 3,
-        "description": "Belajar Variabel Python",
-        "status": "in-progress",
-        "createdAt": "2025-06-01T13:17:29.913703",
-        "updatedAt": "2025-06-01T13:18:00.800962"
-    },
-    {
-        "id": 4,
-        "description": "Belajar Looping Python",
-        "status": "todo",
-        "createdAt": "2025-06-01T13:17:42.844360",
-        "updatedAt": "2025-06-01T13:17:42.844360"
+        "createdAt": "2025-06-01T13:46:27.784491",
+        "updatedAt": "2025-06-01T13:48:34.054071"
     }
 ]
