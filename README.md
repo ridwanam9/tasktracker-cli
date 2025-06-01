@@ -1,6 +1,13 @@
 # Task Tracker CLI
 
-This is a challenge from Roadmap.sh to create a simple CLI for Task Tracker where people can track and manage their tasks. The project was written in Python while JSON is used to store the tasks.
+This is a challenge from [Roadmap.sh](https://roadmap.sh/projects/task-tracker) to create a simple CLI for Task Tracker where people can track and manage their tasks. The project was written in Python while JSON is used to store the tasks.
+
+## Install
+
+Clone this project via git:
+```sh
+git clone https://github.com/ridwanam9/tasktracker-cli.git
+```
 
 ## Usage
 
