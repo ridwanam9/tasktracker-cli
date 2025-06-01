@@ -1,12 +1,5 @@
 [
     {
-        "id": 1,
-        "description": "Belajar Python Edited",
-        "status": "done",
-        "createdAt": "2025-06-01T13:09:14.702779",
-        "updatedAt": "2025-06-01T13:15:02.957923"
-    },
-    {
         "id": 2,
         "description": "Belajar Logika Python",
         "status": "done",
